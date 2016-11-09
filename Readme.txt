@@ -1,5 +1,6 @@
-Please Install pygame library for this application to work:
+Install python:
 LINK:-----> http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi
+
 Now install pygame in the same directory as python(its generally C:/Python27)
 LINK-------> http://www.pygame.org/ftp/pygame-1.9.1release.zip
 
