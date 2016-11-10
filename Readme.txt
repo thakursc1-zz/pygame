@@ -1,10 +1,10 @@
 
 
 Install python:
-LINK:-----> http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi
+LINK:-----> https://www.python.org/ftp/python/2.7/python-2.7.msi
 
 Now install pygame in the same directory as python(its generally C:/Python27)
-LINK-------> http://www.pygame.org/ftp/pygame-1.9.1release.zip
+LINK-------> http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi
 
 After Installing ---->
 run main_source.py 
